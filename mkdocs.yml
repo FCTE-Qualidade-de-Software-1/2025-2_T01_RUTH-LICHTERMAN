@@ -1,0 +1,5 @@
+site_name: Time Ruth Lichterman
+theme:
+  name: material
+nav:
+  - Home: index.md
